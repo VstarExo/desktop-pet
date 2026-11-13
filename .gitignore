@@ -1,0 +1,3 @@
+# Built app and icon; recreate with ./build.sh
+build/
+.DS_Store
